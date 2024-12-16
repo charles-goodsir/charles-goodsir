@@ -7,7 +7,6 @@ This repository showcases a few projects I've built during my time at DevAcademy
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Resume](#resume)
 - [Contact](#contact)
 
