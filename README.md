@@ -56,8 +56,8 @@ You can find my detailed resume attached to this project:
 If you'd like to connect or discuss this project further, feel free to reach out:
 
 - **Email:** goodsirces@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/charles-goodsir)
-- **GitHub:** [Your GitHub Profile](https://github.com/charles-goodsir )
+- **LinkedIn:** [Charles Goodsir](linkedin.com/in/charles-goodsir)
+- **GitHub:** [charles-goodsir](https://github.com/charles-goodsir )
 
 ---
 
