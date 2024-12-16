@@ -1,6 +1,6 @@
 # My Portfolio Project
 
-This repository showcases a project I've built to highlight my skills as a web developer. It demonstrates my ability to design, implement, and deploy a fully functional application with modern web technologies.
+This repository showcases a few projects I've built during my time at DevAcademy to highlight my skills as a web developer. It demonstrates my ability to design, implement, and deploy a fully functional application with modern web technologies.
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@ This repository showcases a project I've built to highlight my skills as a web d
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Resume](#resume)
 - [Contact](#contact)
 
