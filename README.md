@@ -67,7 +67,7 @@ Example of how the application works:
 
 You can find my detailed resume attached to this project:
 
-- [View My Resume](./CV.pdf)
+- [View My Resume](CV.pdf)
 
 ## Contact
 
