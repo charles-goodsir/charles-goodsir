@@ -18,9 +18,8 @@ This project is designed to provide insight into my technical skills and problem
 
 ## Features
 
-- Responsive and accessible design for all devices
+- Responsive and accessible 
 - Interactive and dynamic user interface
-- Integration with external APIs for real-time data
 - Modular and reusable code structure
 
 ## Technologies Used
@@ -30,38 +29,22 @@ This project is designed to provide insight into my technical skills and problem
 - **Database:** SQLlite3
 - **Version Control:** Git, GitHub
 
-## Installation
+Here are some collaborative projects I've worked on:
 
-To run this project locally, follow these steps:
+### [Zookeepers Friend](https://github.com/charles-goodsir/group-project-nootnoot)
+- **Description**: Collaborative project to be used as Zookeeper friend and timetable.
+- **Role**: Designed database and created a functioning table to be used as a calendar.
+- **Technologies**: HTML,CSS, JS, React and Typescript.
+- **Original Project**: Due to access limitations, the original repository cannot be forked or made public. However, you can find details about the project and my contributions in this [repository](https://github.com/pikopiko-2024/NootNoot).
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/portfolio-project.git
+### [Movie Finder](https://github.com/charles-goodsir/group-project-CAMera)
+- **Description**: Collaborative project to utilize an API to get movies and their data.
+- **Role**: Found and used the API then implemented it into my colleagues code.
+- **Technologies**: HTML,CSS, JS, React and Typescript.
+- **Original Project**: Due to access limitations, the original repository cannot be forked or made public. However, you can find details about the project and my contributions in this [repository](https://github.com/pikopiko-2024/CAMera).
 
-# Navigate to the project directory
-cd portfolio-project
+Feel free to explore these repositories to learn more about my collaborative efforts and technical expertise.
 
-# Install dependencies
-npm install
-```
-
-## Usage
-
-To start the application, use the following commands:
-
-```bash
-# Start the development server
-npm run dev
-
-# Or build for production
-npm run build
-```
-
-Example of how the application works:
-
-1. Open the app in your browser.
-2. Navigate through the features to explore the functionality.
-3. Interact with dynamic components to see real-time updates.
 
 ## Resume
 
@@ -80,5 +63,9 @@ If you'd like to connect or discuss this project further, feel free to reach out
 ---
 
 Thank you for taking the time to review my project!
+
+
+
+
 
 
