@@ -1,4 +1,3 @@
-# charlesgoodsir
 # My Portfolio Project
 
 This repository showcases a project I've built to highlight my skills as a web developer. It demonstrates my ability to design, implement, and deploy a fully functional application with modern web technologies.
@@ -10,6 +9,7 @@ This repository showcases a project I've built to highlight my skills as a web d
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Resume](#resume)
 - [Contact](#contact)
 
 ## About the Project
@@ -25,9 +25,9 @@ This project is designed to provide insight into my technical skills and problem
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (or React, if applicable)
-- **Backend:** Node.js (or Express, if applicable)
-- **Database:** MongoDB / PostgreSQL (if applicable)
+- **Frontend:** HTML, CSS, JavaScript and React
+- **Backend:** Node.js and Express
+- **Database:** SQLlite3
 - **Version Control:** Git, GitHub
 
 ## Installation
@@ -63,6 +63,12 @@ Example of how the application works:
 2. Navigate through the features to explore the functionality.
 3. Interact with dynamic components to see real-time updates.
 
+## Resume
+
+You can find my detailed resume attached to this project:
+
+- [View My Resume](./CV.pdf)
+
 ## Contact
 
 If you'd like to connect or discuss this project further, feel free to reach out:
@@ -70,9 +76,9 @@ If you'd like to connect or discuss this project further, feel free to reach out
 - **Email:** goodsirces@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/charles-goodsir)
 - **GitHub:** [Your GitHub Profile](https://github.com/charles-goodsir )
-- **CV:** []
 
 ---
 
 Thank you for taking the time to review my project!
+
 
