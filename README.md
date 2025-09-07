@@ -8,7 +8,7 @@ Welcome to my professional portfolio! This repository contains the source code f
 
 ## About Me
 
-I'm a passionate full-stack developer with experience in React, Node.js, and TypeScript. Currently working as a Software Configuration Engineer at DATACOM Solutions (NZ), I specialize in building clean, scalable applications and solving complex technical challenges.
+I'm a passionate full-stack developer with experience in React, Node.js, and TypeScript. Currently working as a Software Configuration Engineer at DATACOM Solutions (NZ), I specialize in building clean, scalable applications and solving complex technical challenges. I'm currently learning Python and am eager to dive deeper into its capabilities for data science, automation, and backend development.
 
 ## Professional Experience
 
@@ -31,6 +31,11 @@ I'm a passionate full-stack developer with experience in React, Node.js, and Typ
 - **Cloud:** Firebase, Supabase
 - **Tools:** Git, GitHub, Azure DevOps, CI/CD Pipelines
 
+### Currently Learning
+- **Python** - Data science, automation, and backend development
+- **Web Scraping** - Automated data collection and processing
+- **Data Engineering** - Building data pipelines and processing systems
+
 ### Development Practices
 - Agile Methodology
 - Test-Driven Development
@@ -43,9 +48,17 @@ I'm a passionate full-stack developer with experience in React, Node.js, and Typ
 - **Responsive Design** - Optimized for all devices
 - **Modern UI/UX** - Clean, professional interface with Tailwind CSS
 - **Interactive Navigation** - Smooth transitions between sections
-- **Project Showcase** - Detailed project pages with screenshots
-- **Professional Experience** - Comprehensive work history
+- **Project Showcase** - Detailed project pages with screenshots and descriptions
+- **Professional Experience** - Comprehensive work history and education
 - **Contact Integration** - Easy ways to get in touch
+
+## Project Highlights
+
+While detailed project information is available on the live portfolio, here are links to some of my key repositories:
+
+- **[News Dashboard](https://github.com/charles-goodsir/news-script)** - Full-stack news aggregation with Python web scraping
+- **[Airbnb Clone](https://github.com/charles-goodsir/airbnb-clone)** - React homepage with interactive calendar functionality
+- **[Portfolio Website](https://github.com/charles-goodsir/my-portfolio)** - This repository (React + TypeScript portfolio)
 
 ## Technologies Used
 
@@ -55,27 +68,6 @@ I'm a passionate full-stack developer with experience in React, Node.js, and Typ
 - **Styling:** Tailwind CSS with custom animations
 - **Version Control:** Git, GitHub
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/charles-goodsir/my-portfolio.git
-
-# Navigate to the project directory
-cd my-portfolio
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
 
 
 ## Contact
@@ -83,8 +75,7 @@ npm run dev
 Let's connect and discuss opportunities:
 
 - **Email:** goodsirces@gmail.com
-- **LinkedIn:** [Charles Goodsir](https://linkedin.com/in/charles-goodsir)
-- **GitHub:** [charles-goodsir](https://github.com/charles-goodsir)
+- **LinkedIn:** [Charles Goodsir](https://www.linkedin.com/in/charles-goodsir-430b0b254)
 - **Portfolio:** [charles-goodsir.github.io/my-portfolio](https://charles-goodsir.github.io/my-portfolio/)
 
 ## Resume
