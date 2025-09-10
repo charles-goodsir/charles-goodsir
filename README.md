@@ -59,6 +59,7 @@ While detailed project information is available on the live portfolio, here are 
 - **[News Dashboard](https://github.com/charles-goodsir/news-script)** - Full-stack news aggregation with Python web scraping
 - **[Airbnb Clone](https://github.com/charles-goodsir/airbnb-clone)** - React homepage with interactive calendar functionality
 - **[Portfolio Website](https://github.com/charles-goodsir/my-portfolio)** - This repository (React + TypeScript portfolio)
+- **[Flight Tracker](https://github.com/charles-goodsir/flight-tracker#)** - This repository (Python)
 
 ## Technologies Used
 
